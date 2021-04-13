@@ -1,0 +1,22 @@
+add
+reg ime x
+4 0 0
+17280
+mov
+reg ime x
+8 0 0
+8192
+mov
+reg reg x
+0 3 0
+7168
+add
+reg reg reg
+0 3 6
+6144
+ldr
+reg reg x
+3 0 0
+2048
+.endf
+

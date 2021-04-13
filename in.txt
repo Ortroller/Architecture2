@@ -1,0 +1,8 @@
+ldr r1, r3
+mov r0, #3
+moralmente:
+bx lr
+bl moralmente
+blx r2
+bl cunhao
+b .
