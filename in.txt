@@ -1,8 +1,9 @@
 ldr r1, r3
 mov r0, #3
-moralmente:
+label1:
 bx lr
-bl moralmente
+bl label1
 blx r2
-bl cunhao
 b .
+
+Codigo de exemplo
