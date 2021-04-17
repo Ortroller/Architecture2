@@ -1,4 +1,4 @@
-# Arq2
+# Architecture II
 Um tradutor de arm assembly em modo THUMB para hexadecimal referente à linguagem de máquina feito como projeto na cadeira Arquitetura e organização de  computadores 2
 
 - Arquivo de entrada ("in") é onde o código em arm assembly deve ser colocado.
